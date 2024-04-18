@@ -1,0 +1,3 @@
+symbol1,symbol2,exitprice1,exitprice2,entryprice1,entryprice2,entrydate,exitdate,quantity1,quantity2
+ICICIBANK,HDFC,308,1658,293,1592,2017-10-30 00:00:00,2017-11-03 00:00:00,1706,314
+SBIN,HDFC,311,1658,298,1592,2017-10-30 00:00:00,2017-11-03 00:00:00,1677,314
